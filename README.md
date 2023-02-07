@@ -1,4 +1,4 @@
-![FS developer](https://user-images.githubusercontent.com/124353971/217370054-60650b2e-91bb-48aa-a276-3426cfc6fa26.png)
+![FS developer](https://user-images.githubusercontent.com/124353971/217371726-ca58176f-bf1b-45dc-9141-74d402a42d1e.png)
 
 # Hi there!
 
