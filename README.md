@@ -8,6 +8,7 @@
 - 🏄‍♀️ Worked on a diverse range of startups keeping a focus on scalability and quality
 - 💪 Proactive, self-organized, and excel at developing both web and mobile applications
 - 💡 Open to discussing ideas, challenges, and opportunities
+
 Let's connect and see what we can create together!
 
 ## My tech stack includes, but is not limited by:
